@@ -1,0 +1,2 @@
+# Classfication_garbage
+基于resnet50的垃圾分类，控制舵机旋转实现分类
